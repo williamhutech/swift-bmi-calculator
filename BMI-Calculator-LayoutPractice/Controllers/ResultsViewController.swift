@@ -1,10 +1,4 @@
-//
-//  ResultsViewController.swift
-//  BMI-Calculator-LayoutPractice
-//
-//  Created by William Hu on 27/8/2020.
-//  Copyright © 2020 App Brewery. All rights reserved.
-//
+
 
 import UIKit
 

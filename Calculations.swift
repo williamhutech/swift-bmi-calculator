@@ -1,10 +1,4 @@
-//
-//  Calculations.swift
-//  BMI-Calculator-LayoutPractice
-//
-//  Created by William Hu on 27/8/2020.
-//  Copyright © 2020 App Brewery. All rights reserved.
-//
+
 
 import UIKit
 
@@ -16,9 +10,9 @@ struct Calculations {
         let bmiValue = W / (H * H)
         
         if bmiValue < 18.5 {
-            bmi = BMIStruct(value: bmiValue, advice: "Eat more sugar.", color: #colorLiteral(red: 0.4745098054, green: 0.8392156959, blue: 0.9764705896, alpha: 1))
+            bmi = BMIStruct(value: bmiValue, advice: "Try eat more meat.", color: #colorLiteral(red: 0.4745098054, green: 0.8392156959, blue: 0.9764705896, alpha: 1))
         } else if bmiValue > 24.9 {
-            bmi = BMIStruct(value: bmiValue, advice: "Eat less dude.", color: #colorLiteral(red: 0.9098039269, green: 0.4784313738, blue: 0.6431372762, alpha: 1))
+            bmi = BMIStruct(value: bmiValue, advice: "Try eat more veggies.", color: #colorLiteral(red: 0.9098039269, green: 0.4784313738, blue: 0.6431372762, alpha: 1))
         } else {
             bmi = BMIStruct(value: bmiValue, advice: "You're fit bro.", color: #colorLiteral(red: 0.721568644, green: 0.8862745166, blue: 0.5921568871, alpha: 1))
         }
