@@ -1,13 +1,11 @@
 
-![Banner](Documentation/Banner.png)
-
 #  BMI Calculator
 
 A Body Mass Index calculator based on the user’s weight and height. It will calculate their body mass and give a piece of health advice.
 
 ## Screenshots
 
-![Screenshots](Documentation/Screenshot1.png) ![Screenshots](Documentation/Screenshot2.png) 
+<img src="Documentation/Screenshot1.png" width="500">
 
 ## What I have learned
 
