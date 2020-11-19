@@ -5,7 +5,7 @@ A Body Mass Index calculator based on the user’s weight and height. It will ca
 
 ## Screenshots
 
-<img src="Documentation/Screenshot1.png" width="200"><img src="Documentation/Screenshot2.png" width="200">
+<img src="Documentation/Screenshot1.png" width="200">"   "<img src="Documentation/Screenshot2.png" width="200">
 
 ## What I have learned
 
